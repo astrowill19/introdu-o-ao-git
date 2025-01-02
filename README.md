@@ -1,4 +1,9 @@
 #Introdução ao GIT !
-# Olá mundo, feliz 2025 galero !
+# Olá mundo, 
+```$$
+python
+$$
+feliz 2025 galero !
+```
 **Gabriellen heheheheh**
 
